@@ -17,7 +17,7 @@
     display: flex;
     box-shadow: 0 0px 20px rgb(0 0 0 / 20%);
     /*border: 10px solid #1b1b1b;*/
-    /*border-radius: 10px;*/
+    border-radius: 10px;
     width: 500px;
 }
 /*
@@ -35,10 +35,12 @@
 .scratch_project div h4{
     margin: 10px 0 10px 10px;
     font-size: 25px;
+    border-bottom: 3px solid #1d1d1d;
 }
 .scratch_project div p{
     margin: 5px 0 5px 10px;
     font-size: 15px;
+    font-family: 'Mochiy Pop One', sans-serif;
 }
 
 #main_page h1 {

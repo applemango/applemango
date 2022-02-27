@@ -8,6 +8,11 @@
     color: inherit;
 }
 
+::selection {
+    color: #1d1d1d;
+    background-color: #f1c40f;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -84,7 +89,7 @@ header li {
     margin-left: 100px;
     color: #1b1b1b;
     font-size: 25px;
-    font-family: 'Secular One', sans-serif;
+    font-family: 'Mochiy Pop One', sans-serif;
 }
 
 
