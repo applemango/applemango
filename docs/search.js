@@ -77,7 +77,7 @@ function search_history_inner(){
 }
 function search_history_inner_click(i){
     const main_right_search_filter_user_select = document.querySelectorAll("#main_right_search_filter_user_select > button")
-    console.log(main_right_search_filter_user_select[i].getAttribute("text"))
+    //console.log(main_right_search_filter_user_select[i].getAttribute("text"))
     search_box.value = main_right_search_filter_user_select[i].getAttribute("text")
     search(main_right_search_filter_user_select[i].getAttribute("text"))
 }
@@ -85,10 +85,10 @@ function search_history_inner_click(i){
 function project_sort(type){
     const innerHTML = document.querySelector("#project_list").innerHTML
     const project_list = document.querySelectorAll("#project_list > div")
-    console.log(project_list)
+    //console.log(project_list)
     for(let i = 0; i < project_list.length; i++){
         if(project_list[i].className == "hidden" || project_list[i].className == "hidden hidden_true"){
-            console.log(project_list[i])
+            //console.log(project_list[i])
             project_list[i].classList.add("hidden_true")
             if(type==2){
                 project_list[i].classList.remove("hidden_true")
