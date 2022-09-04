@@ -1,4 +1,4 @@
-<a href="https://applemango.github.io/"><img src="img/git.abc.osaka_.png" title="lang list"></a>
+<a href="https://applemango.github.io/"><img src="img/git.abc.osaka_.png" title="Profile"></a>
 <!--<div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" title="stats" src="https://github-readme-stats.vercel.app/api?username=applemango&show_icons=true&theme=vue&border_color=fff" style="width: 33%"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" title="lang list" src="https://github-readme-stats.vercel.app/api/top-langs/?username=applemango&langs_count=10&layout=compact&border_color=fff" style="width: 33%" /></a>
