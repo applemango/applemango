@@ -14,6 +14,7 @@ Hello, World!
     - Go
     - Rust
     - Typescript
+    - ~~DNCL~~
 - **Framework**
     - Next.js
     - Gin
