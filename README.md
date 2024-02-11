@@ -6,6 +6,8 @@
 </div>
 
 # Applemango
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" title="lang list" src="https://github-readme-stats.vercel.app/api/top-langs/?username=applemango&langs_count=10&layout=compact&border_color=fff" style="width: 25%;height:50%" /></a>
+
 Hello, World!
 
 ## Tech
