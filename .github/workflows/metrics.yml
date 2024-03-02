@@ -22,7 +22,7 @@ jobs:
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
+          filename: metrics/metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
@@ -31,7 +31,7 @@ jobs:
       - name: Mildly interesting facts
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.habits.facts.svg
+          filename: metrics/metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
@@ -42,7 +42,7 @@ jobs:
       - name: Recent activity charts
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.habits.charts.svg
+          filename: metrics/metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
@@ -54,7 +54,7 @@ jobs:
       - name: Most used (with details)
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.languages.details.svg
+          filename: metrics/metrics.plugin.languages.details.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
@@ -68,7 +68,7 @@ jobs:
       - name: Recently used
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.languages.recent.svg
+          filename: metrics/metrics.plugin.languages.recent.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
@@ -82,7 +82,7 @@ jobs:
       - name: Detailed report
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.pagespeed.detailed.svg
+          filename: metrics/metrics.plugin.pagespeed.detailed.svg
           token: NOT_NEEDED
           base: ""
           plugin_pagespeed: yes

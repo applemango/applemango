@@ -6,7 +6,14 @@
 </div>
 
 # Applemango
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" title="lang list" src="https://github-readme-stats.vercel.app/api/top-langs/?username=applemango&langs_count=10&layout=compact&border_color=fff" style="width: 35%" /></a>
+<img src="./metrics/github-metrics.svg" />
+<div>
+    <img src="./metrics/metrics.plugin.languages.recent.svg" />
+    <img src="./metrics/metrics.plugin.languages.details.svg" />
+</div>
+<img src="./metrics/metrics.plugin.pagespeed.detailed.svg" />
+<a href="https://github.com/applemango"><img title="counter" src="https://count.i32.jp/moe?name=apple@i32.jp"/></a>
+<!--<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" title="lang list" src="https://github-readme-stats.vercel.app/api/top-langs/?username=applemango&langs_count=10&layout=compact&border_color=fff" style="width: 35%" /></a>
 
 Hello, World!
 
@@ -55,3 +62,4 @@ Hello, World!
 <div align="right">
     <a href="https://github.com/applemango"><img title="counter" src="https://count.i32.jp/moe?name=apple@i32.jp"/></a>
 </div>
+-->
