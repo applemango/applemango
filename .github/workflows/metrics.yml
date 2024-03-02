@@ -17,6 +17,7 @@ jobs:
       - name: default
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics/github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
       - name: Full-year calendar
